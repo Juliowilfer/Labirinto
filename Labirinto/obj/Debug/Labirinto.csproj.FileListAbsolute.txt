@@ -1,0 +1,14 @@
+C:\Users\Aluno\Desktop\ProjetoC\Labirinto\bin\Debug\Labirinto.exe.config
+C:\Users\Aluno\Desktop\ProjetoC\Labirinto\bin\Debug\Labirinto.exe
+C:\Users\Aluno\Desktop\ProjetoC\Labirinto\bin\Debug\Labirinto.pdb
+C:\Users\Aluno\Desktop\ProjetoC\Labirinto\obj\Debug\Labirinto.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\ProjetoC\Labirinto\obj\Debug\Labirinto.Form1.resources
+C:\Users\Aluno\Desktop\ProjetoC\Labirinto\obj\Debug\Labirinto.Properties.Resources.resources
+C:\Users\Aluno\Desktop\ProjetoC\Labirinto\obj\Debug\Labirinto.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\ProjetoC\Labirinto\obj\Debug\Labirinto.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\ProjetoC\Labirinto\obj\Debug\Labirinto.exe
+C:\Users\Aluno\Desktop\ProjetoC\Labirinto\obj\Debug\Labirinto.pdb
+C:\Users\Aluno\Desktop\ProjetoC\Labirinto\obj\Debug\Labirinto.Form3.resources
+C:\Users\Aluno\Desktop\ProjetoC\Labirinto\obj\Debug\Labirinto.Form4.resources
+C:\Users\Aluno\Desktop\ProjetoC\Labirinto\obj\Debug\Labirinto.Form5.resources
+C:\Users\Aluno\Desktop\ProjetoC\Labirinto\obj\Debug\Labirinto.Form6.resources
